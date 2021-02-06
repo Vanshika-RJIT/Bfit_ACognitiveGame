@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bfit-A Cognitive Game</string>
+    <string name="your_score">your score</string>
+    <string name="click_me_to_run">click me to run</string>
+</resources>
